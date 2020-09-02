@@ -1,1 +1,2 @@
 This is another sample file.
+And this is another edit.
